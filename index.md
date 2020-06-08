@@ -14,7 +14,7 @@
 				<!-- Main -->
 					<section id="main">
 						<header>
-							<span class="avatar"><img src="images/m.jpg" alt="" /></span>
+							<span class="avatar"><img src="images/m.JPG" alt="" /></span>
 							<h1>Mickaël Rodrigues</h1>
 							<p>Video Editor / Director</p>
 						</header>
@@ -66,7 +66,7 @@
 				<!-- Footer -->
 					<footer id="footer">
 						<ul class="copyright">
-							<li>&copy; MR</li><li>Hosted on Github <a href="http://github.com">Github</a></li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							<li>&copy; MR</li><li>Hosted on <a href="http://github.com">Github</a></li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 						</ul>
 					</footer>
 
