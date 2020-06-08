@@ -67,7 +67,7 @@
 					<footer id="footer">
 						<ul class="copyright">
 							<li>&copy; MR</li><li>Hosted on <a href="http://github.com">Github</a></li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-							<li>&copy; This site is under maintenance, please come back shortly.</li>
+							<li> This site is under maintenance, please come back soon.</li>
 						</ul>
 					</footer>
 
