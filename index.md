@@ -14,7 +14,7 @@
 				<!-- Main -->
 					<section id="main">
 						<header>
-							<span class="avatar"><img src="images/m.JPG" alt="" width="100" height="100"/></span>
+							<span class="avatar"><img src="images/m.JPG" alt="" width="100%" height="100%"/></span>
 							<h1>Mickaël Rodrigues</h1>
 							<p>Video Editor / Director</p>
 						</header>
