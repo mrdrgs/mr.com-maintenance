@@ -58,6 +58,7 @@
 						<footer>
 							<ul class="icons">
 								<li><a href="#" class="icon brands fa-twitter">Twitter</a></li>
+								<a href="https://vimeo.com/mickaelrodrigues">Vimeo</a>.</h1>
 								<li><a href="#" class="icon brands fa-instagram">Instagram</a></li>
 								<li><a href="#" class="icon brands fa-facebook-f">Facebook</a></li>
 							</ul>
