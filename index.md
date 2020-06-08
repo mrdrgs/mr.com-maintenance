@@ -59,7 +59,6 @@
 							<ul class="icons">
 								<li><a href="https://vimeo.com/mickaelrodrigues" class="icon brands fa-vimeo">Vimeo</a></li>
 								<li><a href="https://www.instagram.com/mikerodrgs/" class="icon brands fa-instagram">Instagram</a></li>
-								<li><a href="linkedin.com/in/mickaël-rodrigues-4841b6b3" class="icon brands fa-linkedin-f">Linkedin</a></li>
 							</ul>
 						</footer>
 					</section>
